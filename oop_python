@@ -26,3 +26,5 @@ print(vlad.name + " "+str(vlad.age)) # why str? bcoz age is int type
 ivan = Person("Иван", 20)
 #ivan._set("Иван", 20)
 print(ivan.name+" "+str(ivan.age)) #if print without "" and +, output will be in braces, like ('Ivan', '20')
+
+
